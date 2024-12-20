@@ -1,0 +1,8 @@
+.root
+{
+    -fx-background-color: lightgreen;
+}
+.poljeNijeIspravno
+{
+    -fx-control-inner-background:red;
+}
